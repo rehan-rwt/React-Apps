@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Navbar = ({filterItem,menuList}) => {            // pass multiple props using comma ,
+const Navbar = ({filterItem,menuList}) => {            // pass multiple props using comma , 
   return (
     <>
  <nav className='navbar'>
