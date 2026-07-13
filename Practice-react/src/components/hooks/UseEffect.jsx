@@ -5,10 +5,10 @@ const UseEffect = () => {
     // const initialData = 0
 const [myData, setmyData] = useState(0) // hooks usestate
 useEffect(() => {
-// console.log("hi");
+// console.log("hello ");
 document.title = `Chats(${myData})`
 })
-// },[]) // array dependency
+// },[]) // array dependency //
 
 
   return (
