@@ -30,7 +30,7 @@
     "name": "Veg Pulao",
     "image": "https://example.com/images/veg-pulao.jpg",
     "category": "lunch",
-    "price": 220,
+    "price": 250,
     "description": "Flavorful rice cooked with fresh vegetables and aromatic herbs."
   },
   {
