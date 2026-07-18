@@ -62,7 +62,7 @@
     "name": "Mutton Rogan Josh",
     "image": "https://example.com/images/mutton-rogan-josh.jpg",
     "category": "dinner",
-    "price": 450,
+    "price": 470,
     "description": "Authentic Kashmiri mutton curry cooked in rich spices."
   },
   {
