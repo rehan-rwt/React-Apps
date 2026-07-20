@@ -17,7 +17,7 @@ const MenuCard = ({ menuData }) => {
                                         {/* <span className='card-auther subtle 'style={{color:"red"}}>Breakfast</span> */}
                                         <span className='card-auther subtle '>{curElem.name}</span>
                                         <h2 className='card-title'>{curElem.name}</h2>
-                                        <span className='card-description subtle'>{curElem.description} maggi Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, amet!</span>
+                                        <span className='card-description subtle'>{curElem.description} maggi Lorem  dolor sit amet consectetur adipisicing elit. Asperiores, amet!</span>
                                         <div className='card-read'>{curElem.price}</div>
                                         <div>
                                             <img src={curElem.image} alt="images" className='card-media' />
