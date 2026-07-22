@@ -22,7 +22,7 @@ const filterItem =(category)=>{      // function-f,parameter-category
   }
 
   const updateList= Menu.filter((curElem)=>{  //filter() array ke har element par chalta hai 
-// Har element ko curElem bola gaya hai
+// Har element ko curElem bola gaya hai yaha
 
 
     return curElem.category === category;
