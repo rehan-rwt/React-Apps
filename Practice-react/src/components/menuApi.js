@@ -118,7 +118,7 @@
     "name": "Rajma Chawal",
     "image": "https://example.com/images/rajma-chawal.jpg",
     "category": "lunch",
-    "price": 180,
+    "price": 190,
     "description": "Red kidney beans curry served with steamed rice."
   },
   {
