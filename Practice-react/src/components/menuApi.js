@@ -14,7 +14,7 @@
     "name": "Paneer Tikka",
     "image": "images/paneertikka.jpg",  
     "category": "lunch",
-    "price": 280,
+    "price": 290,
     "description": "Grilled paneer cubes marinated in yogurt and Indian spices."
   },
   {
