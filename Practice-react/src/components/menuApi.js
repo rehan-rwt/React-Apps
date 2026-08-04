@@ -197,7 +197,7 @@
     "name": "Lamb Kebab",
     "image": "https://example.com/images/lamb-kebab.jpg",
     "category": "dinner",
-    "price": 460,
+    "price": 480,
     "description": "Tender lamb kebabs grilled with authentic Indian spices."
   },
   {
