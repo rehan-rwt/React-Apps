@@ -93,7 +93,7 @@
     "name": "Veg Fried Rice",
     "image": "https://example.com/images/veg-fried-rice.jpg",
     "category": "lunch",
-    "price": 200,
+    "price": 210,
     "description": "Classic fried rice tossed with vegetables and soy sauce."
   },
   {
@@ -214,7 +214,7 @@
     "image": "https://example.com/images/grilled-salmon.jpg",
     "category": "dinner",
     "price": 520,
-    "description": "Grilled salmon served with herbed vegetables and lemon butter."
+    "description": "Grilled salmon served with herbed vegetables and lemon."
   },
   {
     "id": 28,
