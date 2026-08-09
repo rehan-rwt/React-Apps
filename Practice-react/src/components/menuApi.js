@@ -248,5 +248,13 @@
     "price": 390,
     "description": "Smoky BBQ chicken served with grilled vegetables and fries."
   }
+   {
+    "id": 32,
+    "name": "Chefs special",
+    "image": "https://example.com/images/bbq-chicken.jpg",
+    "category": "dinner",
+    "price": 300,
+    "description": "pecial."
+     }
 ]
 export default Menu;
