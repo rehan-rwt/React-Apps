@@ -133,7 +133,7 @@
     "name": "Chicken Korma",
     "image": "https://example.com/images/chicken-korma.jpg",
     "category": "dinner",
-    "price": 360,
+    "price": 370,
     "description": "Chicken cooked in a rich cashew and yogurt gravy."
   },
   {
