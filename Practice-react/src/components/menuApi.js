@@ -254,7 +254,7 @@
     "image": "https://example.com/images/bbq-chicken.jpg",
     "category": "dinner",
     "price": 300,
-    "description": "pecial."
+    "description": "very special very tasty."
      }
 ]
 export default Menu;
