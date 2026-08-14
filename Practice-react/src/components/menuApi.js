@@ -93,7 +93,7 @@
     "name": "Veg Fried Rice",
     "image": "https://example.com/images/veg-fried-rice.jpg",
     "category": "lunch",
-    "price": 210,
+    "price": 220,
     "description": "Classic fried rice tossed with vegetables and soy sauce."
   },
   {
