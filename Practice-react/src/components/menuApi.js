@@ -189,7 +189,7 @@
     "name": "Mushroom Masala",
     "image": "https://example.com/images/mushroom-masala.jpg",
     "category": "dinner",
-    "price": 260,
+    "price": 270,
     "description": "Fresh mushrooms cooked in spicy onion-tomato gravy."
   },
   {
