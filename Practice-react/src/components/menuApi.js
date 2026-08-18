@@ -109,7 +109,7 @@
     "name": "Malai Kofta",
     "image": "https://example.com/images/malai-kofta.jpg",
     "category": "dinner",
-    "price": 290,
+    "price": 180,
     "description": "Soft vegetable dumplings served in creamy tomato gravy."
   },
   {
