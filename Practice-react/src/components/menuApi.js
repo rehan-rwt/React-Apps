@@ -229,7 +229,7 @@
     "name": "Veg Burger",
     "image": "https://example.com/images/veg-burger.jpg",
     "category": "Veg",
-    "price": 180,
+    "price": 190,
     "description": "Crispy vegetable patty with fresh lettuce and cheese in a bun."
   },
   {
