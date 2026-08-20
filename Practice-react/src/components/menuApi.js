@@ -149,7 +149,7 @@
     "name": "Prawn Biryani",
     "image": "https://example.com/images/prawn-biryani.jpg",
     "category": "dinner",
-    "price": 420,
+    "price": 430,
     "description": "Aromatic biryani made with juicy prawns and basmati rice."
   },
   {
