@@ -204,9 +204,9 @@
     "id": 26,
     "name": "Veg Lasagna",
     "image": "https://example.com/images/veg-lasagna.jpg",
-    "category": "lunch",
+    "category": "Veg",
     "price": 340,
-    "description": "Layers of pasta, vegetables, cheese, and rich tomato sauce."
+    "description": " of pasta, vegetables, cheese, and rich tomato sauce."
   },
   {
     "id": 27,
