@@ -69,7 +69,7 @@
     "name": "Dal Makhani",
     "image": "https://example.com/images/dal-makhani.jpg",
     "category": "dinner",
-    "price": 280,
+    "price": 250,
     "description": "Slow-cooked black lentils in creamy tomato gravy."
   },
   {
