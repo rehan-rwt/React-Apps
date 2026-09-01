@@ -45,7 +45,7 @@
     "name": "Palak Paneer",
     "image": "https://example.com/images/palak-paneer.jpg",
     "category": "dinner",
-    "price": 295,
+    "price": 250,
     "description": "Fresh spinach curry cooked with soft paneer cubes."
   },
   {
