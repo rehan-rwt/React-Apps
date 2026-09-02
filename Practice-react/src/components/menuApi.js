@@ -37,7 +37,7 @@
     "name": "Masala Dosa",
     "image": "https://example.com/images/masala-dosa.jpg",
     "category": "lunch",
-    "price": 190,
+    "price": 180,
     "description": "Crispy dosa stuffed with spicy potato filling and served with chutney."
   },
   {
