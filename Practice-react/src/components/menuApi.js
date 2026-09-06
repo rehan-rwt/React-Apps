@@ -29,7 +29,7 @@
     "name": "Veg Pulao",
     "image": "https://example.com/images/veg-pulao.jpg",
     "category": "lunch",
-    "price": 280,
+    "price": 290,
     "description": "Flavorful rice cooked with fresh vegetables and aromatic herbs."
   },
   {
@@ -45,8 +45,8 @@
     "name": "Palak Paneer",
     "image": "https://example.com/images/palak-paneer.jpg",
     "category": "dinner",
-    "price": 260,
-    "description": "Fresh spinach curry cooked with soft paneer cubes."
+    "price": 270,
+    "description": "Fresh spinach curry cooked with soft fresh paneer cubes."
   },
   {
     "id": 7,
