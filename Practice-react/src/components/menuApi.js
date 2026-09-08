@@ -85,7 +85,7 @@
     "name": "Hakka Noodles",
     "image": "https://example.com/images/hakka-noodles.jpg",
     "category": "dinner",
-    "price": 230,
+    "price": 250,
     "description": "Stir-fried noodles with vegetables and savory sauces."
   },
   {
