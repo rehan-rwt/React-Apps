@@ -53,7 +53,7 @@
     "name": "Chole Bhature",
     "image": "https://example.com/images/chole-bhature.jpg",
     "category": "lunch",
-    "price": 210,
+    "price": 220,
     "description": "Spicy chickpea curry served with fluffy fried bhature."
   },
   {
