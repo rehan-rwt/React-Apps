@@ -21,7 +21,7 @@
     "name": "Chicken Biryani",
     "image": "https://example.com/images/chicken-biryani.jpg",
     "category": "lunch",
-    "price": 350,
+    "price": 360,
     "description": "Fragrant basmati rice cooked with tender chicken and traditional spices."
   },
   {
