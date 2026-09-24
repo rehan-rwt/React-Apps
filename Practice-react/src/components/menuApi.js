@@ -5,7 +5,7 @@
     "name": "Butter Chicken",
     "image": "https://example.com/images/butter-chicken.jpg",
     "category": "dinner",
-    "price": 370,
+    "price": 380,
     "description": "Creamy butter chicken cooked with aromatic spices and served with naan."
   },
   {
