@@ -125,7 +125,7 @@
     "name": "Veg Thali",
     "image": "https://example.com/images/veg-thali.jpg",
     "category": "lunch",
-    "price": 320,
+    "price": 330,
     "description": "Complete Indian meal with curry, dal, rice, roti, and dessert."
   },
   {
@@ -141,7 +141,7 @@
     "name": "Kadai Paneer",
     "image": "https://example.com/images/kadai-paneer.jpg",
     "category": "dinner",
-    "price": 300,
+    "price": 310,
     "description": "Paneer cooked with bell peppers in spicy kadai masala."
   },
   {
